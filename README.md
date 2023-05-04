@@ -7,7 +7,7 @@
 <h2><img width="25" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/magnifying-glass-tilted-right_1f50e.png" /> About</h2>
 
 - Full-Stack Developer. I live in Turkey.
-- TypeScript is my favorite programming language.
+- JavaScript is my favorite programming language.
 - Personal website: [ewriqs.co](https://ewriqs.repl.co)
 
 
