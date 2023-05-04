@@ -1,6 +1,7 @@
 ### Hi there 👋 My ewriq 
 
-<h2><img width="25" src="https://lanyard.cnrad.dev/api/1085964318853566524" /></h2>
+[![Discord](https://lanyard.cnrad.dev/api/1085964318853566524)](https://discord.com/users/1085964318853566524)
+
 
 <h2><img width="25" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/magnifying-glass-tilted-right_1f50e.png" /> About</h2>
 
