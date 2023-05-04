@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋 My ewriq 
 
-<!--
-**ewriq/ewriq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Discord](https://lanyard.cnrad.dev/api/1085964318853566524)](https://discord.com/users/1085964318853566524)
 
-Here are some ideas to get you started:
+<h2><img width="25" src="https://lanyard.cnrad.dev/api/1085964318853566524" /></h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2><img width="25" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/magnifying-glass-tilted-right_1f50e.png" /> About</h2>
+
+- Full-Stack Developer. I live in Turkey.
+- TypeScript is my favorite programming language.
+- Personal website: [ewriqs.co](https://ewriqs.repl.co)
+
+
+<h2 width="100%"><img width="25" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/gear_2699-fe0f.png" /> Technologies I use</h2>
+<img src="https://skillicons.dev/icons?i=alpinejs,bootstrap,java,css,sass,html,js,ts,php,react,vue,svelte,next,nuxt,mongodb,discord,cloudflare,codepen,electron,express,fastapi,tailwindcss,git,github,heroku,nodejs,webpack,markdown,netlify,pug" />
