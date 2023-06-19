@@ -1,9 +1,10 @@
 
 <h2 width="100%"><img width="25" src="" /> Hi guys 👋 My ewriq </h2>
 
+<h2 width="100%"> Discord</h2>
 [![Discord](https://lanyard.cnrad.dev/api/1085964318853566524)](https://discord.com/users/1085964318853566524)
 
-<summary style="font-weight: bold; font-size: 18px">GitHub İstatistiklerim</summary>
+<h2 width="100%"> Stats </h2>
 <img src="https://github-readme-stats.vercel.app/api?username=ewriq&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 
 
