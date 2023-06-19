@@ -21,5 +21,6 @@
 [![Discord](https://lanyard.cnrad.dev/api/1085964318853566524)](https://discord.com/users/1085964318853566524)
 
 <h2 width="100%"><img width="25" src="" /> Github Stats </h2>
-<img src="https://github-readme-stats.vercel.app/api?username=ewriq&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 
+[![ewriqs's Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ewriq&theme=dark&count_private=true&show_icons=true&hide_border=true)](#)
+[![ewriq's Github stats](https://github-readme-stats.vercel.app/api?username=ewriq&count_private=true&show_icons=true&theme=dark&hide_border=true)](#)
