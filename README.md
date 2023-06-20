@@ -1,7 +1,7 @@
 
 <h2 width="100%"><img width="25" src="" /> Hi guys 👋 My ewriq </h2>
 
-#### Turkish developer 
+#### Turkişi developer 
 
 [![Discord](https://img.shields.io/badge/discord-5865f2.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1085964318853566524)
 [![YouTube](https://img.shields.io/badge/youtube-ff0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@ewriq)
