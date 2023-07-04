@@ -37,6 +37,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ewriq&show_icons=true&theme=dark&locale=en" alt="ewriq" /></p>
 
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ewriq&theme=dark" alt="ewriq" /></p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewriq&theme=dark&hide_border=yes&include_all_commits=true&count_private=true&layout=compact"> </p>
