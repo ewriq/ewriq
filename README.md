@@ -34,9 +34,6 @@
 
 <h2 width="100%"><img width="25" src="" /> Github Stats </h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ewriq&show_icons=true&theme=dark&locale=en&layout=compact" alt="ewriq" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ewriq&show_icons=true&theme=dark&locale=en" alt="ewriq" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ewriq&theme=dark" alt="ewriq" /></p>
 
