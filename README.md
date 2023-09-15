@@ -1,7 +1,7 @@
 
-<h2 width="100%"><img width="25" src="" /> Hi guys 👋 My ewriq </h2>
+<h2 width="100%"><img width="25" src="" /> Hi guys 👋 My ewriq <img align="right" src="https://komarev.com/ghpvc/?username=ewriq&label=Profile%20views&color=0e75b6&style=flat" alt="ewriq" /> 
+ </h2>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=ewriq&label=Profile%20views&color=0e75b6&style=flat" alt="ewriq" /> </p>
 
 
 
