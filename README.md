@@ -20,6 +20,9 @@
 <a href="https://discord.gg/ewriq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ewriq" height="30" width="40" /></a>
 </p>
 
+[![Discord](https://lanyard.cnrad.dev/api/1085964318853566524)](https://discord.com/users/1085964318853566524)
+
+
 
 
 <h2 width="100%"><img width="25" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/gear_2699-fe0f.png" /> Technologies I use</h2>
@@ -27,12 +30,10 @@
 <img src="https://skillicons.dev/icons?i=tailwind,go,react,electron,linux,deno,vercel,vue,rust,svelte" /> 
 
 
-
-<h2 width="100%"><img width="25" src="" /> Discord</h2>
-
-[![Discord](https://lanyard.cnrad.dev/api/1085964318853566524)](https://discord.com/users/1085964318853566524)
-
+ 
 <h2 width="100%"><img width="25" src="" /> Github Stats </h2>
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ewriq&hide_border=true&bg_color=0d1117&color=ff6b81&line=ff4757&&point=59c9e8)
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ewriq&show_icons=true&theme=dark&locale=en" alt="ewriq" /></p>
