@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Solarss](https://solarss.com.tr/)
 
-- 🌱 I’m currently learning **go, ts, clang**
+- 🌱 I’m currently learning **golang**
 
 - 💬 Ask me about **nodejs**
 
