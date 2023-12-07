@@ -1,8 +1,10 @@
 
-![github-header-image (1)](https://github.com/ewriq/ewriq/assets/102306313/c54d0da2-9dbb-4b37-a529-eb98bdc7a135)
 
 <h2 width="100%"><img width="25" src="" /> Hi guys 👋 My ewriq <img align="right" src="https://komarev.com/ghpvc/?username=ewriq&label=Profile%20views&color=0e75b6&style=flat" alt="ewriq" /> 
  </h2>
+ 
+ ![github-header-image (2)](https://github.com/ewriq/ewriq/assets/102306313/03fa2cea-716a-47ed-9909-61efec0ce730)
+
 
 
 
