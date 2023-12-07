@@ -1,4 +1,5 @@
-![image](https://github.com/ewriq/ewriq/assets/102306313/48606555-c987-4946-a3e4-b93922b528ca)
+
+![github-header-image](https://github.com/ewriq/ewriq/assets/102306313/2d628d88-d8e5-4d45-96a3-1211d2b3cd9f)
 
 <h2 width="100%"><img width="25" src="" /> Hi guys 👋 My ewriq <img align="right" src="https://komarev.com/ghpvc/?username=ewriq&label=Profile%20views&color=0e75b6&style=flat" alt="ewriq" /> 
  </h2>
