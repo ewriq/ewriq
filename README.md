@@ -7,8 +7,6 @@
 
 
 
-
-
 - 🔭 I’m currently working on [Silvershift](https://silvershift.xyz/)
 
 - 🌱 I’m currently learning **golang**
