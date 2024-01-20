@@ -7,36 +7,14 @@
 
 
 
-- 🔭 I’m currently working on [Silvershift](https://silvershift.xyz/)
-
-- 🌱 I’m currently learning **golang**
-
-- 💬 Ask me about **nodejs**
-
-- 📫 How to reach me **ewriqs@gmail.com**
-
-
 
 <h2 width="100%"><img width="25" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/gear_2699-fe0f.png" /> Technologies I use</h2>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,nodejs,deno,go,mysql,mongodb,vue,svelte,tailwind,cloudflare,express,github,netlify," />
-
-
-
-<h2 align="left">  <img width="25" src="" /> Social media </h2>
-<p align="left">
-<a href="https://instagram.com/ewriqs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ewriqs" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ewriq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ewriq" height="30" width="40" /></a>
-<a href="https://discord.gg/ewriq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ewriq" height="30" width="40" /></a>
-</p>
-
-[![Discord](https://lanyard.cnrad.dev/api/1085964318853566524)](https://discord.com/users/1085964318853566524)
+<img src="https://skillicons.dev/icons?i=nodejs,go,mysql,mongodb,vue,svelte,tailwind,express,github," />
 
 
  
 <h2 width="100%"><img width="25" src="" /> Github Stats </h2>
 
-
-<p></p>
 
 <p align="start">
  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=ewriq&bg_color=0d1117](https://github-readme-streak-stats.herokuapp.com?user=ewriq&theme=dark&locale=en&type=png&background=45%2C0D1117%2C0D1117&border=0D1117" alt="ewriq" />
