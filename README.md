@@ -1,4 +1,6 @@
-<h1 align="center">Hi, I'm ewriq <img src="https://em-content.zobj.net/thumbs/120/apple/325/waving-hand_1f44b.png" width="30" /></h1>
+<h1 align="center">Hi, I'm ewriq <img src="https://em-content.zobj.net/thumbs/120/apple/325/waving-hand_1f44b.png" width="30" /><p align="right">
+  <img src="https://komarev.com/ghpvc/?username=ewriq&label=Profile%20views&color=0e75b6&style=flat" alt="ewriq" />
+</p></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=79FF97&center=true&vCenter=true&width=600&lines=Fullstack+Dev+%F0%9F%92%BB;I+build+modern+apps+%F0%9F%9A%80;Let's+build+cool+things+%F0%9F%92%BB" />
