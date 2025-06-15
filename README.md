@@ -1,37 +1,59 @@
 <h1 align="center">Hi, I'm ewriq <img src="https://em-content.zobj.net/thumbs/120/apple/325/waving-hand_1f44b.png" width="30" /></h1>
 
+<br>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=79FF97&center=true&vCenter=true&width=600&lines=Fullstack+Dev+%F0%9F%92%BB;I+build+modern+apps+%F0%9F%9A%80;Let's+build+cool+things+%F0%9F%92%BB" />
 </p>
 
-
+<br><br>
 
 ### 🧠 Tech Stack
+
+<br>
 
 <p>
   <img src="https://skillicons.dev/icons?i=go,nodejs,svelte,mysql,mongodb,raspberrypi,tailwind,express,github,arduino,vercel" />
 </p>
 
+<br>
+
 ---
 
+<br><br>
+
 ### 📊 GitHub Stats
+
+<br>
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ewriq&show_icons=true&theme=react&bg_color=0D1117&title_color=79ff97&text_color=ffffff" alt="GitHub Stats" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=ewriq&theme=dark&background=0D1117&border=0D1117" alt="GitHub Streak" />
 </p>
 
+<br><br>
 
+---
+
+<br><br>
 
 ### 🔥 Top Languages
----
+
+<br>
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewriq&layout=compact&theme=react&bg_color=0D1117&border_color=0D1117&title_color=79ff97&text_color=ffffff" alt="Top Languages" />
 </p>
 
+<br><br>
 
+---
+
+<br><br>
 
 ### 📬 Let's Contact!
+
+<br>
 
 <p align="left">
   <a href="mailto:ewriqs@gmail.com"><img src="https://img.shields.io/badge/Gmail-333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" /></a>
@@ -40,11 +62,15 @@
   <a href="https://lightewriq.space/"><img src="https://img.shields.io/badge/Website-333?style=for-the-badge&logo=firefox&logoColor=orange" alt="Website" /></a>
 </p>
 
+<br><br>
+
 ---
 
-
+<br><br>
 
 ### 🎮 Interests & Hobbies
+
+<br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Music-FF4500?style=for-the-badge&logo=spotify&logoColor=white" alt="Music" />
@@ -52,3 +78,4 @@
   <img src="https://img.shields.io/badge/Sports-32CD32?style=for-the-badge&logo=nike&logoColor=white" alt="Sports" />
 </p>
 
+<br><br>
