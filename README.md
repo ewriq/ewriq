@@ -31,13 +31,13 @@
 
 
 
-### 📬 Let's Connect!
+### 📬 Let's Contact!
 
 <p align="left">
-  <a href="mailto:ewriq.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" /></a>
-  <a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/Discord-333?style=for-the-badge&logo=discord&logoColor=7289DA" alt="Discord" /></a>
+  <a href="mailto:ewriqs@gmail.com"><img src="https://img.shields.io/badge/Gmail-333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" /></a>
+  <a href="https://discord.com/users/1085964318853566524"><img src="https://img.shields.io/badge/Discord-333?style=for-the-badge&logo=discord&logoColor=7289DA" alt="Discord" /></a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-333?style=for-the-badge&logo=linkedin&logoColor=0e76a8" alt="LinkedIn" /></a>
-  <a href="https://ewriq.dev"><img src="https://img.shields.io/badge/Website-333?style=for-the-badge&logo=firefox&logoColor=orange" alt="Website" /></a>
+  <a href="https://lightewriq.space/"><img src="https://img.shields.io/badge/Website-333?style=for-the-badge&logo=firefox&logoColor=orange" alt="Website" /></a>
 </p>
 
 ---
