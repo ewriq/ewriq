@@ -72,7 +72,7 @@
 
 <br>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Music-FF4500?style=for-the-badge&logo=spotify&logoColor=white" alt="Music" />
   <img src="https://img.shields.io/badge/Gaming-7289DA?style=for-the-badge&logo=steam&logoColor=white" alt="Gaming" />
   <img src="https://img.shields.io/badge/Sports-32CD32?style=for-the-badge&logo=nike&logoColor=white" alt="Sports" />
