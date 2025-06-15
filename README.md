@@ -33,7 +33,6 @@
 
 <br><br>
 
----
 
 <br><br>
 
@@ -49,7 +48,7 @@
 
 ---
 
-<br><br>
+<br>
 
 ### 📬 Let's Contact!
 
@@ -62,11 +61,10 @@
   <a href="https://lightewriq.space/"><img src="https://img.shields.io/badge/Website-333?style=for-the-badge&logo=firefox&logoColor=orange" alt="Website" /></a>
 </p>
 
-<br><br>
+<br>
 
----
 
-<br><br>
+<br>
 
 ### 🎮 Interests & Hobbies
 
