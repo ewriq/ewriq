@@ -41,7 +41,7 @@
 
 <br>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewriq&layout=compact&theme=react&bg_color=0D1117&border_color=0D1117&title_color=79ff97&text_color=ffffff" alt="Top Languages" />
   <!--START_SECTION:waka-->
 
