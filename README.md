@@ -32,12 +32,6 @@
   
 </p>
 
-<br><br>
-
-
-<br><br>
-
-### 🔥 Top Languages
 
 <br>
 
