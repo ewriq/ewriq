@@ -39,13 +39,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewriq&layout=compact&theme=react&bg_color=0D1117&border_color=0D1117&title_color=79ff97&text_color=ffffff" alt="Top Languages" />
   <!--START_SECTION:waka-->
 
-```txt
-Go           5 hrs 7 mins    ████████████████░░░░░░░░░   63.73 %
-Svelte       2 hrs 32 mins   ████████░░░░░░░░░░░░░░░░░   31.64 %
-TypeScript   10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
-HTML         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
-```
+
 
 <!--END_SECTION:waka-->
 </p>
