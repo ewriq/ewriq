@@ -13,7 +13,7 @@
 <br>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=go,nodejs,svelte,mysql,mongodb,raspberrypi,tailwind,express,github,arduino,vercel" />
+  <img src="https://skillicons.dev/icons?i=go,nodejs,svelte,mysql,mongodb,raspberrypi,tailwind,express,github,arduino,vercel,sqlite" />
 </p>
 
 <br>
