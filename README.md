@@ -27,9 +27,9 @@
 <br>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ewriq&show_icons=true&theme=react&bg_color=0D1117&title_color=79ff97&text_color=ffffff" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=ewriq&theme=dark&background=0D1117&border=0D1117" alt="GitHub Streak" />
-  
+  <img width="30%" src="https://github-readme-stats.vercel.app/api?username=ewriq&show_icons=true&theme=react&bg_color=0D1117&title_color=79ff97&text_color=ffffff" alt="GitHub Stats" />
+  <img width="30%" src="https://github-readme-streak-stats.herokuapp.com?user=ewriq&theme=dark&background=0D1117&border=0D1117" alt="GitHub Streak" />
+ <img width="30%" src="https://api.githubtrends.io/user/svg/ewriq/repos?time_range=one_year&include_private=True&group=other&loc_metric=changed&theme=dark" />
 </p>
 
 
