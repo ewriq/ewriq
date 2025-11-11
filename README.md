@@ -1,4 +1,4 @@
-# 👋 Hello, I'm ewriq
+# 👋 Hello, I'm Birol Yuşa ÖZKABALCI (ewriq)
 
 **Backend  Developer | Specializing in Go and High-Performance Cloud Architectures**
 
