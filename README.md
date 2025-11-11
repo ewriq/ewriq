@@ -1,85 +1,67 @@
-<h1 align="center">Hi, I'm ewriq <img src="https://em-content.zobj.net/thumbs/120/apple/325/waving-hand_1f44b.png" width="30" /><p align="right">
-  <img src="https://komarev.com/ghpvc/?username=ewriq&label=Profile%20views&color=0e75b6&style=flat" alt="ewriq" />
-</p></h1>
+# 👋 Hello, I'm ewriq
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=79FF97&center=true&vCenter=true&width=600&lines=Fullstack+Dev+%F0%9F%92%BB;I+build+modern+apps+%F0%9F%9A%80;Let's+build+cool+things+%F0%9F%92%BB" />
-</p>
-
-<br>
-
-### 🧠 Tech Stack
-
-<br>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=go,nodejs,svelte,mysql,mongodb,raspberrypi,tailwind,express,github,arduino,vercel,sqlite,linux" />
-</p>
-
-<br>
+**Backend  Developer | Specializing in Go and High-Performance Cloud Architectures**
 
 ---
 
-<br>
+## 🚀 Professional Summary
 
-### 📊 GitHub Stats
+I am a Backend  Developer focused on delivering robust, scalable, and high-performance solutions for cloud ecosystems, backend platforms, and modern web applications.
 
-<br>
+My dedication centers on creating business value through clean, maintainable code and the adoption of advanced architectural patterns.
 
-<p align="center">
-  <img width="30%" src="https://github-readme-stats.vercel.app/api?username=ewriq&show_icons=true&theme=react&bg_color=0D1117&title_color=79ff97&text_color=ffffff" alt="GitHub Stats" />
-  <img width="30%" src="https://github-readme-streak-stats.herokuapp.com?user=ewriq&theme=dark&background=0D1117&border=0D1117" alt="GitHub Streak" />
- <img width="30%" src="https://api.githubtrends.io/user/svg/ewriq/repos?time_range=one_year&include_private=True&group=other&loc_metric=changed&theme=dark" />
-</p>
-
-
-<br>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewriq&layout=compact&theme=react&bg_color=0D1117&border_color=0D1117&title_color=79ff97&text_color=ffffff" alt="Top Languages" />
-  <!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-</p>
-
-<br><br>
+### Core Principles
+- **Performance:** Optimizing backend efficiency using Go and TypeScript.
+- **Scalability:** Building resilient, cloud-native systems.
+- **Clarity:** Strict adherence to clean code and best practices.
 
 ---
 
-<br>
+## 🛠️ Technology Stack
 
-### 📬 Let's Contact!
+Core technologies and tools I use for building and deploying modern apps:
 
-<br>
+<img src="https://skillicons.dev/icons?i=go,svelte,nodejs,ts,js,tailwind,express,mysql,mongodb,sqlite,raspberrypi,arduino,vercel,linux,github" alt="Tech Stack" />
 
-<p align="left">
-  <a href="mailto:ewriqs@gmail.com"><img src="https://img.shields.io/badge/Gmail-333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" /></a>
-  <a href="https://discord.com/users/1085964318853566524"><img src="https://img.shields.io/badge/Discord-333?style=for-the-badge&logo=discord&logoColor=7289DA" alt="Discord" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-333?style=for-the-badge&logo=linkedin&logoColor=0e76a8" alt="LinkedIn" /></a>
-  <a href="https://lightewriq.space/"><img src="https://img.shields.io/badge/Website-333?style=for-the-badge&logo=firefox&logoColor=orange" alt="Website" /></a>
-</p>
+---
 
-<br>
+## 📊 GitHub Analytics
 
+Quick stats on my contributions and main languages:
 
-<br>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ewriq&show_icons=true&theme=react&bg_color=0D1117&title_color=79ff97&text_color=ffffff&hide_border=true" alt="ewriq github stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewriq&layout=compact&theme=react&bg_color=0D1117&border_color=0D1117&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-### 🎮 Interests & Hobbies
+---
 
-<br>
+## 🎯 Key Focus Areas
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Music-FF4500?style=for-the-badge&logo=spotify&logoColor=white" alt="Music" />
-  <img src="https://img.shields.io/badge/Gaming-7289DA?style=for-the-badge&logo=steam&logoColor=white" alt="Gaming" />
-  <img src="https://img.shields.io/badge/Sports-32CD32?style=for-the-badge&logo=nike&logoColor=white" alt="Sports" />
-</p>
+I actively pursue knowledge and excellence in these domains:
+- ☁️  Scalable Cloud Services (Microservices, Serverless architectures)
+- ⚙️  Backend Optimization and API design
+- 🌐  Cutting-edge Web and DevOps App development
+- 🔬  Embedded Systems (SMT32, Arduino, ESP LoraWan, NRF etc.), technology experiments
 
-<br><br>
+---
 
+## 📧 Connect
 
-<a href="https://coff.ee/ewriq" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+Open to collaborative projects, technical discussions, or networking. Reach me here:
 
+[![Gmail](https://img.shields.io/badge/Gmail-333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:ewriqs@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-333?style=for-the-badge&logo=discord&logoColor=7289DA)](https://discord.com/users/1085964318853566524)
+[![Website](https://img.shields.io/badge/Website-333?style=for-the-badge&logo=firefox&logoColor=orange)](https://lightewriq.space/)
+
+---
+
+## 🙏 Support My Work
+
+[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://coff.ee/ewriq)
