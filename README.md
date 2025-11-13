@@ -11,7 +11,7 @@ I am a Backend  Developer focused on delivering robust, scalable, and high-perfo
 My dedication centers on creating business value through clean, maintainable code and the adoption of advanced architectural patterns.
 
 ### Core Principles
-- **Performance:** Optimizing backend efficiency using Go and TypeScript.
+- **Performance:** Optimizing backend efficiency using Go and Javacript.
 - **Scalability:** Building resilient, cloud-native systems.
 - **Clarity:** Strict adherence to clean code and best practices.
 
