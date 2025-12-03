@@ -21,7 +21,7 @@ My dedication centers on creating business value through clean, maintainable cod
 
 Core technologies and tools I use for building and deploying modern apps:
 
-<img src="https://skillicons.dev/icons?i=go,svelte,nodejs,ts,js,tailwind,express,mysql,mongodb,sqlite,raspberrypi,arduino,vercel,linux,github" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=go,svelte,nodejs,js,tailwind,express,mysql,mongodb,postgresql,sqlite,raspberrypi,arduino,vercel,linux,github" alt="Tech Stack" />
 
 ---
 
