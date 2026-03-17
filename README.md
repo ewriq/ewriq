@@ -15,34 +15,16 @@ My dedication centers on creating business value through clean, maintainable cod
 - **Scalability:** Building resilient, cloud-native systems.
 - **Clarity:** Strict adherence to clean code and best practices.
 
----
 
-## 🛠️ Technology Stack
+### 🛠️ Technology Stack
 
 Core technologies and tools I use for building and deploying modern apps:
 
 <img src="https://skillicons.dev/icons?i=go,svelte,nodejs,js,tailwind,express,mysql,mongodb,postgresql,sqlite,raspberrypi,arduino,vercel,linux,github" alt="Tech Stack" />
 
----
 
-## 📊 GitHub Analytics
 
-Quick stats on my contributions and main languages:
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ewriq&show_icons=true&theme=react&bg_color=0D1117&title_color=79ff97&text_color=ffffff&hide_border=true" alt="ewriq github stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewriq&layout=compact&theme=react&bg_color=0D1117&border_color=0D1117&hide_border=true" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
----
-
-## 🎯 Key Focus Areas
+### 🎯 Key Focus Areas
 
 I actively pursue knowledge and excellence in these domains:
 - ☁️  Scalable Cloud Services (Microservices, Serverless architectures)
@@ -50,9 +32,9 @@ I actively pursue knowledge and excellence in these domains:
 - 🌐  Cutting-edge Web and DevOps App development
 - 🔬  Embedded Systems (SMT32, Arduino, ESP LoraWan, NRF etc.), technology experiments
 
----
 
-## 📧 Connect
+
+### 📧 Connect
 
 Open to collaborative projects, technical discussions, or networking. Reach me here:
 
